@@ -1,0 +1,24 @@
+{
+  "name": "design-system-tokens",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Figma tokens → Style Dictionary → CI/CD pipeline",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build --config style-dictionary.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshwinL03/design-system-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshwinL03/design-system-tokens/issues"
+  },
+  "homepage": "https://github.com/AshwinL03/design-system-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^5.3.3"
+  }
+}

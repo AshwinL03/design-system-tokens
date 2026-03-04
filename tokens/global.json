@@ -1,0 +1,18 @@
+{
+  "color": {
+    "primary": {
+      "value": "#2563eb"
+    },
+    "secondary": {
+      "value": "#f59e0b"
+    }
+  },
+  "spacing": {
+    "sm": {
+      "value": "8px"
+    },
+    "md": {
+      "value": "16px"
+    }
+  }
+}
